@@ -1,1 +1,1 @@
-Writing scripts that can be executed in the terminal to carry out simple commands 
+This is the file that has solution to the shell permission tasks. 

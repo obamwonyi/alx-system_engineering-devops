@@ -1,2 +1,2 @@
-pwd : this is the script used to print the absolute path of the current working directory
+This is the file that has all the shell basics tasks.
 
