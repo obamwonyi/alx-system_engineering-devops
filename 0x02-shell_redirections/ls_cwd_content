@@ -1,0 +1,17 @@
+total 68
+drwxrwxr-x 2 netweaver netweaver  4096 Jun 11 23:07 .
+drwxrwxr-x 6 netweaver netweaver  4096 Jun 10 15:36 ..
+-rwxrw-r-- 1 netweaver netweaver    32 Jun 10 15:10 0-hello_world
+-rwxrw-r-- 1 netweaver netweaver    28 Jun 10 15:31 1-confused_smiley
+-rwxrw-r-- 1 netweaver netweaver    29 Jun 10 15:37 2-hellofile
+-rwxrw-r-- 1 netweaver netweaver    40 Jun 10 15:47 3-twofiles
+-rwxrw-r-- 1 netweaver netweaver    35 Jun 10 15:49 4-lastlines
+-rwxrw-r-- 1 netweaver netweaver    35 Jun 10 15:54 5-firstlines
+-rwxrw-r-- 1 netweaver netweaver    41 Jun 11 22:21 6-third_line
+-rwxrw-r-- 1 netweaver netweaver   100 Jun 11 23:00 7-file
+-rwxrw-r-- 1 netweaver netweaver    37 Jun 11 23:07 8-cwd_state
+-rw-rw-r-- 1 netweaver netweaver    12 Jun 11 23:00 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 netweaver netweaver 12288 Jun 10 17:58 .\*\\'"Best School"\'\\*$\?\*\*\*\*\*:).swp
+-rw-rw-r-- 1 netweaver netweaver   122 Jun 10 15:57 iacta
+-rw-rw-r-- 1 netweaver netweaver     0 Jun 11 23:07 ls_cwd_content
+-rw-rw-r-- 1 netweaver netweaver    65 Jun 10 15:13 README.md
