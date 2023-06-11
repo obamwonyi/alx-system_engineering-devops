@@ -1,2 +1,3 @@
 #/bin/bash
-tail -n +3 iacta
+awk 'NR==3' iacta
+
