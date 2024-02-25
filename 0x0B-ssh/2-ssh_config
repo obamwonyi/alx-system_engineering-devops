@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# ssh ing with out password
+sh -v ubuntu@35.153.66.119
